@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 004 Validate Login with 9 Char Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7397f36d-0696-4e36-9773-bc0b3af6acfc</testCaseGuid>
+</TestCaseEntity>

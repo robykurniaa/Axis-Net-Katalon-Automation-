@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 002 Perform Lock Unlock 2nd Time Before 5 Min</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7dd9fe3-e2d7-4341-958c-06a294fe44b5</testCaseGuid>
+</TestCaseEntity>

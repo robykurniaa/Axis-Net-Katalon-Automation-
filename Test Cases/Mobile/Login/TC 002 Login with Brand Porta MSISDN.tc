@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 002 Login with Brand Porta MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68f5fea6-7a74-4cf0-95e2-6278113a170d</testCaseGuid>
+</TestCaseEntity>

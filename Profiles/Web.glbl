@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Web</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Login Web Demo QA</description>
+      <initValue>'https://demoqa.com/'</initValue>
+      <name>LoginWebURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Password</description>
+      <initValue>'admin'</initValue>
+      <name>ValidUsrnm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Admin123'</initValue>
+      <name>ValidPsswrd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

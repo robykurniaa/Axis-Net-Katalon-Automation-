@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Open Axis net Via APK</description>
+      <initValue>'C:\\Users\\Robby_118308\\Katalon Studio\\Axis Net Automation Mobile\\Material\\com.axis.net9.12.0.apk'</initValue>
+      <name>AxisAppId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>axis identifier axis.net.com</description>
+      <initValue>'com.axis.net'</initValue>
+      <name>axisidentifier</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>App id axis net from repository test ops</description>
+      <initValue>'e8ca65ce-6997-42aa-811c-6206b2a47539'</initValue>
+      <name>AppIdTestOps</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid MSISDN</description>
+      <initValue>'083110568390'</initValue>
+      <name>firstMSISDN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid MSISDN</description>
+      <initValue>'083125750052'</initValue>
+      <name>secondMSISDN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Invalid MSISDN</description>
+      <initValue>'0853000000'</initValue>
+      <name>AxisInvalidNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Axis Char Number</description>
+      <initValue>'083897136'</initValue>
+      <name>MSISDN9Char</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Set Wrong OTP</description>
+      <initValue>'MANTAP'</initValue>
+      <name>WrongOTP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Brand Porta MSISDN</description>
+      <initValue>'083125750050'</initValue>
+      <name>BrandPortaMSISDN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hardcode OTP My Testing Number</description>
+      <initValue>'DT2022'</initValue>
+      <name>ZXCV22</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hardcode OTP Other Testing Number</description>
+      <initValue>'DT2022'</initValue>
+      <name>HardcodeOTP2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Login into OrangeHRM</description>
+      <initValue>'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'</initValue>
+      <name>OrangeHRMWebsite</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Username</description>
+      <initValue>'admin\r\n'</initValue>
+      <name>ValidUsernameOrangeHRM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'083110568297'</initValue>
+      <name>ThirdMSISDN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'083110568390'</initValue>
+      <name>fourthMSISDN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1393957550604856'</initValue>
+      <name>AigoCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'3853255725230078'</initValue>
+      <name>UsedAigo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\Robby_118308\\Katalon Studio\\Axis Net Automation Mobile\\Material\\ApiDemos-debug.apk'</initValue>
+      <name>ApiDemos</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

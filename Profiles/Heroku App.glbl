@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Heroku App</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL Demo Website Heroku App</description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/profile.php#login'</initValue>
+      <name>UrlWeb</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
